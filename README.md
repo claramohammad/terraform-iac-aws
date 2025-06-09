@@ -27,7 +27,6 @@ terraform-iac-aws/
 ├── terraform/        # Código principal do Terraform
 │   ├── main.tf
 │   ├── variables.tf
-│   └── outputs.tf
 └── README.md         # Este arquivo de documentação
 ```
 
@@ -111,7 +110,7 @@ Provisiona automaticamente a instância EC2 sem necessidade de confirmação man
 
 ## Recursos provisionados
 
-![Apply](images/ec2.png)
+![ec2](images/ec2.png)
 
 ## Considerações finais
 
